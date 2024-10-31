@@ -6,4 +6,4 @@ Predict the Size And type of outlet store by understanding the properties of pro
 
 ## DataSet Information:
 Big Mart sales data contains 6135 rows and 7 feature for 1559 products across different stores.
-Through git commands we are making some changes. But don't worry; we are doing the changes not in main branch, rather in feature1 branch
+Through git commands we are making some changes.
